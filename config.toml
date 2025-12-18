@@ -1,0 +1,7 @@
+[openai]
+api_key = ""
+
+[ollama]
+enabled = true
+model = "mistral"
+endpoint = "http://localhost:11434/api/generate"
